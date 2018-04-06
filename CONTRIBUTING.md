@@ -10,3 +10,5 @@ If you would like to add a resource or example of how the Open Web can be used i
 Help us grow and improve OWLTEH:
 
 Check out our issues (a list of items that need help or fixing), to see what you can do to improve or add to these materials.
+
+Participats must adhere to the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
