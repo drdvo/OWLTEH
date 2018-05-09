@@ -36,8 +36,8 @@ The following behaviours are expected of participants:
 
 Participation is regulated by the **[Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)**.
 
-## Why don't you collect contributions via GitHub?
+## Why not collecting contributions via GitHub?
 
-As OWLTEH is a project built with the aim to promote the Open Web, we wanted to use the opportunity to use openly licensed applications and tools to profile the contributions made to the project.
+As OWLTEH is a project built with the aim to promote the Open Web, we wanted to use the opportunity to use openly licensed applications and tools to profile the contributions made to the project. In addition to this, we wanted to keep hurdles to paritcipation as minimal as technically feasible (i.e. not requiring contributors to create any user accounts).
 
-We have created three repository sites for each of the three collections. These sites were built using **[WordPress](https://en.wikipedia.org/wiki/WordPress)** and are hosted by the **[Coventry.Domains initiative](http://coventry.domains/)**. Each of the three sites is an instance of a **SPLOT**, which are online publishing tools aimed at making it as easy as possible to post content to the open web. **[You can find out more about SPLOTs here](http://catalogue.owlteh.org/69/)**.
+We have created a separate site for each of the three collections. These sites were built using **[WordPress](https://en.wikipedia.org/wiki/WordPress)** and are hosted by the **[Coventry.Domains initiative](http://coventry.domains/)**. Each of the three sites is an instance of a **SPLOT**, which are online publishing tools aimed at making it as easy as possible to post content to the open web. **[You can find out more about SPLOTs here](http://catalogue.owlteh.org/69/)**.
