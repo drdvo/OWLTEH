@@ -44,4 +44,4 @@ Check out our **[Issues](https://github.com/drdvo/OWLTEH/issues)** (a list of it
   <img src="http://owlteh.org/wp-content/uploads/2018/05/mozilla-global-sprint.jpg" width="900"/>
 </p>
 
-Join us at the Mozilla's Global Sprint May 10-11, 2017! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. **[Get your #MozSprint tickets now!](https://foundation.mozilla.org/opportunity/global-sprint/register/)**
+Join us at the Mozilla's Global Sprint May 10-11, 2018! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. **[Get your #MozSprint tickets now!](https://foundation.mozilla.org/opportunity/global-sprint/register/)**
