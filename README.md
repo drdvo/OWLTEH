@@ -33,6 +33,7 @@ Participation is regulated by the **[Mozilla Community Participation Guidelines]
 ## How to connect and get help
 
 You can connect with us via **[@OWLTEH](https://twitter.com/OWLTEH)** on Twitter, or reach out to **[Daniel Villar-Onrubia](https://twitter.com/villaronrubia)** or **[Lauren Heywood](https://twitter.com/LaurenHeywood)**.
+You can reach us via hello@owlteh.org
 
 ## Help us grow and improve!
 
