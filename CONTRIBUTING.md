@@ -44,7 +44,7 @@ The following behaviours are expected of participants:
 
 Participation is regulated by the **[Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)**.
 
-## Why not collecting contributions via GitHub?
+## Why not collect contributions via GitHub?
 
 As OWLTEH is a project built with the aim to promote the Open Web, we wanted to use the opportunity to profile the contributions made to the project through openly licensed applications and tools that could be particularly relevant to our target community: educators and learners in any disciplines. In addition to this, we wanted to keep hurdles to paritcipation as minimal as technically feasible (i.e. not requiring contributors to create any user accounts).
 
