@@ -14,7 +14,7 @@ This is a catalogue of instances of the Open Web covering applications and platf
 
 This is a series of videos contributed by educators and learners who are actively engaged in using the Open Web within their practice. We have three questions to ask educators and learners who actively use the Open Web:
 
-**(1) What is the Open Web? (i.e. the meaning to you) ** - Let us know how you would define the Open Web in your context and what the phrase means to you. Sharing your understanding of the "Open Web" will help others to know what the phase means and different interpretations.
+**(1) What is the Open Web? (i.e. the meaning to you)** - Let us know how you would define the Open Web in your context and what the phrase means to you. Sharing your understanding of the "Open Web" will help others to know what the phase means and different interpretations.
 
 **(2) Why does the Open Web matter in education?** - Let us know why you think the Open Web is important for learning and teaching. Sharing your understanding will help others to build their knowledge of the importance of the Open Web for education.
 
